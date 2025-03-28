@@ -1,0 +1,32 @@
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Belgeleri\59_OOP_N_Katmanlı_Mimaride_Proje\6_Passaparola_Oyunu\6_Passaparola_Oyunu\bin\Debug\6_Passaparola_Oyunu.exe.config
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Belgeleri\59_OOP_N_Katmanlı_Mimaride_Proje\6_Passaparola_Oyunu\6_Passaparola_Oyunu\bin\Debug\6_Passaparola_Oyunu.exe
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Belgeleri\59_OOP_N_Katmanlı_Mimaride_Proje\6_Passaparola_Oyunu\6_Passaparola_Oyunu\bin\Debug\6_Passaparola_Oyunu.pdb
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Belgeleri\59_OOP_N_Katmanlı_Mimaride_Proje\6_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.csproj.AssemblyReference.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Belgeleri\59_OOP_N_Katmanlı_Mimaride_Proje\6_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Belgeleri\59_OOP_N_Katmanlı_Mimaride_Proje\6_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\_6_Passaparola_Oyunu.Form1.resources
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Belgeleri\59_OOP_N_Katmanlı_Mimaride_Proje\6_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\_6_Passaparola_Oyunu.Properties.Resources.resources
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Belgeleri\59_OOP_N_Katmanlı_Mimaride_Proje\6_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.csproj.GenerateResource.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Belgeleri\59_OOP_N_Katmanlı_Mimaride_Proje\6_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Belgeleri\59_OOP_N_Katmanlı_Mimaride_Proje\6_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.exe
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Belgeleri\59_OOP_N_Katmanlı_Mimaride_Proje\6_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.pdb
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\bin\Debug\6_Passaparola_Oyunu.exe.config
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\bin\Debug\6_Passaparola_Oyunu.exe
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\bin\Debug\6_Passaparola_Oyunu.pdb
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.csproj.AssemblyReference.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\_6_Passaparola_Oyunu.Form1.resources
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\_6_Passaparola_Oyunu.Properties.Resources.resources
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.csproj.GenerateResource.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.exe
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.pdb
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\bin\Debug\6_Passaparola_Oyunu.exe.config
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\bin\Debug\6_Passaparola_Oyunu.exe
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\bin\Debug\6_Passaparola_Oyunu.pdb
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.csproj.AssemblyReference.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\_6_Passaparola_Oyunu.Form1.resources
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\_6_Passaparola_Oyunu.Properties.Resources.resources
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.csproj.GenerateResource.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.exe
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\7_Passaparola_Oyunu\6_Passaparola_Oyunu\obj\Debug\6_Passaparola_Oyunu.pdb
